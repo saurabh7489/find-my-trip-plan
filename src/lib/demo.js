@@ -30,7 +30,7 @@ export function buildDemoTrip() {
       {
         id: "demo-2",
         name: "Aman",
-        availableDates: ["2026-10-11", "2026-10-12", "2026-10-14"],
+        availableDates: ["2026-10-11", "2026-10-12", "2026-10-13", "2026-10-14"],
         budgetMin: 7000,
         budgetMax: 12000,
         activities: ["Trekking", "Adventure", "Food", "Beach"],
@@ -39,7 +39,7 @@ export function buildDemoTrip() {
       {
         id: "demo-3",
         name: "Priya",
-        availableDates: ["2026-10-09", "2026-10-11", "2026-10-12"],
+        availableDates: ["2026-10-09", "2026-10-11", "2026-10-12", "2026-10-13"],
         budgetMin: 5000,
         budgetMax: 8000,
         activities: ["Beach", "Sightseeing", "Shopping", "Relaxing"],
