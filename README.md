@@ -4,7 +4,7 @@
 
 TripSync is a full-stack group trip planning application that helps friends, families, and teams turn different schedules, budgets, and activity preferences into a trip plan everyone can agree on.
 
-🔗 **Live Demo:**[ https://trip-plan-lilac.vercel.app/](https://tripsync-sigma.vercel.app/)
+🔗 **Live Demo:**  https://tripsync-sigma.vercel.app/
 
 ---
 
